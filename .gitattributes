@@ -1,0 +1,2 @@
+.config/unity3d/IronGate/Valheim/worlds/burn.db filter=lfs diff=lfs merge=lfs -text
+.config/unity3d/IronGate/Valheim/worlds/burn.fwl filter=lfs diff=lfs merge=lfs -text
